@@ -12,7 +12,7 @@ Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap
 
 This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
  
-
+<html>
 <head>
 
   <meta charset="utf-8">
@@ -237,5 +237,4 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
     <script src="js/bootstrap.min.js"></script>
 
   </body>
-
   </html>
