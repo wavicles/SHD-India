@@ -15,8 +15,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p><h1><b>Science Hack Day <br> India - 2018</h1></b> <br> 2-4 November 2018</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p><h1><b>Science Hack Day <br> India - 2018</h1></b> <br> 2 - 4  November 2018</p>
+  header_text_feature_image: assets/img/pexels/stargazing.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
