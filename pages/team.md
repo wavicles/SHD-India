@@ -6,12 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
 <html>
 <head>
 
@@ -37,11 +32,10 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
 
 <body>
 
-    <!-- Page Content -->
-    <div class="container">
-
-      <div class="row">
-        <div class="col-lg-12">
+ <!-- Page Content -->
+  <div class="container">
+   <div class="row">
+     <div class="col-lg-12">
           <h2 class="page-header">Organizing Team</h2>
         </div>
          <div class="col-lg-4 col-sm-6 text-center">
@@ -94,8 +88,6 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
           <p>Engineer, Nature Conservationist, Owner at Precision Engineers and Sankalp Bhoomi Farm Resort-An oasis created on abandoned quarry</p>
           <p> </p>
         </div>
-
-
         <div class="col-lg-4 col-sm-6 text-center">
           <img class="img-circle img-responsive img-center" src="img/jithin.jpg" alt="">
           <h3>Jithin B.P.
@@ -124,9 +116,7 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
           </h3>
           <p>Research Assistant at FOSSEE, IIT Bombay, Co-Founder at Microhope Foundation, Former Fellow Fab Lab Kerala and Fello at Kerala Start-Up Mission</p>
         </div>
-
-
-         <div class="col-lg-4 col-sm-6 text-center">
+     <div class="col-lg-4 col-sm-6 text-center">
           <img class="img-circle img-responsive img-center" src="img/anuja.jpg" alt="">
           <h3>Anuja Chavan
             <small></small>
@@ -180,10 +170,7 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
         </p>
     	</div>
 
-
-
-
-        <div class="col-lg-4 col-sm-6 text-center">
+ <div class="col-lg-4 col-sm-6 text-center">
           <img class="img-circle img-responsive img-center" src="img/aashish.jpg" alt="">
           <h3>Aashish Gadgil
             <small></small>
@@ -204,7 +191,6 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
           </h3>
           <p>A Physics Teacher at GSS College Belgaum, Loves Teaching, Taking first steps in the field of computer programming and Music (Tabla).  </p>
         </div>
-
          <div class="col-lg-4 col-sm-6 text-center">
           <img class="img-circle img-responsive img-center" src="img/vinayak.jpg" alt="">
           <h3>Vinayak Simu
@@ -212,29 +198,6 @@ This file is an example of a page in Jekyll, that automatically shows up in the 
           </h3>
           <p>An Artist - Specialist in 'Ganesh Murty' Painting, Works at Gogte Institute of Technology</p>
         </div>
-
-      </div>
-
-      <!-- Footer -->
-      <footer>
-        <div class="row">
-          <div class="col-lg-12">
-            <center>
-            <p>Science Hack Day Established 2010. Organized by the community.</p>
-          </center>
-          </div>
-        </div>
-        <!-- /.row -->
-      </footer>
-
-    </div>
-    <!-- /.container -->
-
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-
+     </div>
   </body>
   </html>
