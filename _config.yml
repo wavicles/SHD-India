@@ -1,8 +1,9 @@
 # SITE CONFIGURATION
-baseurl: "/SHD-India"
+baseurl: "/Type-on-Strap"
 url: "https://sylhare.github.io"
-title: SHD India 2018 # site's title
-description: "Science Hack Day 2018" # used by search engines
+title: Type on Strap # site's title
+description: "A website with blog posts and pages" # used by search engines
+
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -39,7 +40,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "@SHD_India # "twitter username"
+  twitter: # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -114,4 +115,3 @@ sass:
 plugins: [jekyll-paginate, jekyll-seo-tag]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*"]
-a
