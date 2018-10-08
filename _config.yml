@@ -8,7 +8,7 @@ description: "Science Hack Day 2018" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title:  SHD-India # blog's title
+  title: "SHD-India"  # blog's title
   avatar: assets/img/triangle.svg
   favicon:  assets/favicon.ico
   gravatar: # Email MD5 hash
