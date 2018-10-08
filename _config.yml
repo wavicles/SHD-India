@@ -21,13 +21,13 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
-  flickr:
+  facebook: "https://www.facebook.com/sciencehackin/"
+  flickr: "https://www.flickr.com/groups/3087939@N23/pool/"
   gitlab:
   github: "sylhare"
   google_plus:
@@ -65,11 +65,11 @@ theme_settings:
   
   special_page:
     search: 
-      icon: "search"
-      enabled: true
+      icon: #"search"
+      enabled: #true
     tags:
-      icon: "tags"
-      enabled: true
+      icon: #"tags"
+      enabled: #true
   
   # Localization strings
   str_follow_on: "Follow on"
