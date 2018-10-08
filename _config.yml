@@ -4,18 +4,17 @@ url: "https://sylhare.github.io"
 title: SHD India 2018 # site's title
 description: "Science Hack Day 2018" # used by search engines
 
-
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "SHD-India"  # blog's title
+  title: Type on Strap # blog's title
   avatar: assets/img/triangle.svg
-  favicon:  assets/favicon.ico
+  favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>SCience Hack Day India <br> Belgaum 2018.</p>
+     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
