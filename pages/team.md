@@ -1,10 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Team
+permalink: /team/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
+
+Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+
+Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+
+This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+ 
+
 <head>
 
   <meta charset="utf-8">
@@ -25,78 +33,9 @@ tags: [About, Archive]
   <!-- Custom CSS -->
   <link href="css/business-frontpage.css" rel="stylesheet">
   <link href="css/custom.css" rel="stylesheet">
-
-
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]-->
-
 </head>
 
 <body>
-
-  <!-- Navigation -->
-  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="index.html">SHD 2017</a>
-      </div>
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-
-          <li>
-            <a href="mentors.html">Projects and Mentors</a>
-          </li>
-          <li>
-            <a href="workshops.html">Workshops</a>
-          </li>
-          <li>
-            <a href="travel.html">Travel</a>
-          </li>
-          <li>
-            <a href="coc.html">Code of Conduct</a>
-          </li>
-          <li>
-            <a href="team.html">Team</a>
-          </li>
-          <li>
-            <a href="in_progress.html">Sponsors</a>
-          </li>
-          <li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Schedule
-              <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="schedule.html">SHD Schedule</a></li>
-                <li><a href="scheduleworkshops.html">Workshops Schedule</a></li>
-              </ul>
-            </li>
-          <li>
-            <a href="http://sciencehackday.org/">Global SHD</a>
-          </li>
-          <li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" href="http://sciencehackday.org/">Previous SHD
-              <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="2016/index.html">SHD 2016</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-      </div>
-      <!-- /.container -->
-    </nav>
 
     <!-- Page Content -->
     <div class="container">
