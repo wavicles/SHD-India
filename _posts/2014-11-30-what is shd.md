@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What is Science Hack Day?
-tags: [SHD, Test, Lorem, Ipsum]
+feature-img: "assets/img/pexels/stargazing.jpg"
+thumbnail: ""
+tags: [SHD India, Belgaum, Science, Python]
 excerpt_separator: <!--more-->
 ---
 Science Hack Day is a two-day event where anyone excited about making weird, silly or serious things with science comes together in the same physical space to see what they can prototype within 36 consecutive hours
