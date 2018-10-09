@@ -17,7 +17,7 @@ The mission of Science Hack Day is to get excited and make things with science! 
 
 <p>
           <a class="btn btn-primary btn-lg" href="https://www.instamojo.com/shdindia/">Register for SHD 2018 
-          <a class="btn btn-primary btn-lg" href="https://goo.gl/BtPNwy">Submit your Idea &raquo;</a>
+          <a class="btn btn-primary btn-lg" href="https://goo.gl/BtPNwy">Submit your Idea </a>
 </p>
         
 
@@ -34,13 +34,3 @@ The mission of Science Hack Day is to get excited and make things with science! 
           <a href="https://www.flickr.com/groups/3087939@N23/"><i class="fa fa-flickr fa-3x" aria-hidden="true"></i></a>
     </span>
         </div>
-
-
-
-
-
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
-<!--more-->
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
-
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
