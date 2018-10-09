@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/SHD-India"
-url: "https://sylhare.github.io"
+url: "http://sciencehackday.in"
 title: SHD India # site's title
 description: "Science Hack Day India 2018" # used by search engines
 
@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: SHD India # blog's title
   avatar: assets/img/shdsmalllogo.png
-  favicon: assets/favicon.ico
+  favicon: assets/img/shdsmalllogo.png
   gravatar: # Email MD5 hash
 
   # Header and footer text
