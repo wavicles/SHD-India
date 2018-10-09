@@ -29,7 +29,7 @@ theme_settings:
   facebook: "https://www.facebook.com/sciencehackin/"
   flickr: "https://www.flickr.com/groups/3087939@N23/pool/"
   gitlab:
-  github: "sylhare"
+  github: "ScienceHackDayIndia"
   google_plus:
   instagram:
   keybase:
@@ -53,10 +53,10 @@ theme_settings:
     tumblr:
     pinterest:
     pocket:
-    reddit: true
+    reddit:
     linkedin:
     wordpress:
-    email: true
+    email:
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -95,7 +95,7 @@ theme_settings:
   
   
 # PAGINATION
-paginate: 5
+paginate: 3
 paginate_path: "blog/page:num"
 
 
