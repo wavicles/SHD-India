@@ -2,7 +2,7 @@
 layout: post
 title: What is Science Hack Day?
 feature-img: "assets/img/pexels/stargazing.jpg"
-thumbnail: "assets/img/pexels/stargazing.jpg"
+thumbnail: "assets/img/pexels/stargazingsmall.jpg"
 tags: [SHD India, Belgaum, Science, Python]
 excerpt_separator: <!--more-->
 ---
