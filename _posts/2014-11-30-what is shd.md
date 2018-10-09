@@ -11,18 +11,16 @@ The mission of Science Hack Day is to get excited and make things with science! 
 
 ><strong>When?</strong>
 ><br>
-><strong>Main Event : 3rd and 4th November 2018</strong>
-><br><strong>Pre-Event Day-0 : 2nd November 2018</strong>  (Only for SHD Hackers and Resident Hackers)
+>Main Event : <strong>3rd and 4th November 2018</strong>
+><br>Pre-Event Day-0 : <strong>2nd November 2018</strong>  (Only for SHD Hackers and Resident Hackers)
 ><strong>Where?</strong>
-><br>
-><br>Sankalp Bhoomi Resort
+>><br>Sankalp Bhoomi Resort
 ><br>Belgaum, Karnataka, India
 
-<p>
-<a class="btn btn-primary btn-lg" href="https://www.instamojo.com/shdindia/">Register for SHD 2018
+
+<a class="btn btn-primary btn-lg" href="https://www.instamojo.com/shdindia/"><strong>Register for SHD 2018</strong>
 <br>        
 <a class="btn btn-primary btn-lg" href="https://goo.gl/BtPNwy">Submit your Idea </a>
-</p>
         
 <br>
 <abbr title="Email">E:</abbr> <a href="mailto:shdbelgaum@gmail.com">shdbelgaum@gmail.com</a>
