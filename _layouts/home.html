@@ -30,7 +30,7 @@ layout: default
           </header>
           <div class="excerpt">
               {{ post.excerpt | strip_html | markdownfy | escape }}
-              {{post.exceprt | markdownify}}
+              {{post.content | markdownify}}
             <!--{{ post.content | strip_html | truncate: "250" }}-->
             <!--<a class="button" href="{{ post.url | prepend: site.baseurl }}">
               {{ site.theme_settings.str_continue_reading }}
