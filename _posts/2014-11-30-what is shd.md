@@ -18,7 +18,7 @@ The mission of Science Hack Day is to get excited and make things with science! 
 ><br>Belgaum, Karnataka, India
 
 
-<a class="btn btn-primary btn-lg" href="https://www.instamojo.com/shdindia/"><strong>Register for SHD 2018</strong>
+<a class="btn btn-primary btn-lg" href="https://www.instamojo.com/shdindia/"><strong><h2>Register for SHD 2018</h2></strong>
 <br>        
 <a class="btn btn-primary btn-lg" href="https://goo.gl/BtPNwy">Submit your Idea </a>
         
