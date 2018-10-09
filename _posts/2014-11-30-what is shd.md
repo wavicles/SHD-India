@@ -23,10 +23,10 @@ The mission of Science Hack Day is to get excited and make things with science! 
 <a class="btn btn-primary btn-lg" href="https://goo.gl/BtPNwy">Submit your Idea </a>
         
 <br>
-<abbr title="Email">E:</abbr> <a href="mailto:shdbelgaum@gmail.com">shdbelgaum@gmail.com</a>
-<br>
-<b>Follow us on:</b>
-</br>
-<a href="https://www.facebook.com/sciencehackin/"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>
-<a href="https://twitter.com/SHD_India"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
-<a href="https://www.flickr.com/groups/3087939@N23/"><i class="fa fa-flickr fa-3x" aria-hidden="true"></i>
+><abbr title="Email">E:</abbr> <a href="mailto:shdbelgaum@gmail.com">shdbelgaum@gmail.com</a>
+><br>
+><b>Follow us on:</b>
+><br>
+><a href="https://www.facebook.com/sciencehackin/"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>
+><a href="https://twitter.com/SHD_India"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
+><a href="https://www.flickr.com/groups/3087939@N23/"><i class="fa fa-flickr fa-3x" aria-hidden="true"></i>
