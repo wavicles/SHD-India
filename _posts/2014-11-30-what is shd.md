@@ -26,4 +26,4 @@ The mission of Science Hack Day is to get excited and make things with science! 
 ><br>
 ><a href="https://www.facebook.com/sciencehackin/"><i class="fa fa-facebook-official fa-x" aria-hidden="true"></i></a>
 ><a href="https://twitter.com/SHD_India"><i class="fa fa-twitter fa-x" aria-hidden="true"></i></a>
-><a href="https://www.flickr.com/groups/3087939@N23/"><i class="fa fa-flickr fa-x" aria-hidden="true"></i>
+><a href="https://www.flickr.com/groups/3087939@N23/"><i class="fa fa-flickr fa-x" aria-hidden="true"></i></a>
