@@ -7,20 +7,23 @@ excerpt_separator: <!--more-->
 Science Hack Day is a two-day event where anyone excited about making weird, silly or serious things with science comes together in the same physical space to see what they can prototype within 36 consecutive hours
 
 The mission of Science Hack Day is to get excited and make things with science! People organically form multidisciplinary teams over the course of a weekend: particle physicists team up with designers, marketers join forces with open source rocket scientists, writers collaborate with molecular biologists, and developers partner with school kids. By collaborating on focused tasks during this short period, small groups of hackers are capable of producing remarkable results.
-          <p>
-            <a class="btn btn-primary btn-lg" href="https://www.instamojo.com/shdindia/">Register for SHD 2018 &raquo;</a> &nbsp;&nbsp;&nbsp;
-            <a class="btn btn-primary btn-lg" href="https://goo.gl/BtPNwy">Submit your Idea &raquo;</a>
-          </p>
-        </div>
-        <div class="col-sm-4">
-          <h2>When?</h2>
-          <address>
-            <strong>Main Event : 14th and 15th October 2017</strong>
-            <br><strong>Pre-Event Day-0</strong> : 13th October (Only for resident hackers)
-            <br>Sankalp Bhoomi Resort
-            <br>Belgaum, Karnataka, India
-            <br>
-          </address>
+
+
+>When?
+><strong>Main Event : 3rd and 4th November 2018</strong>
+><br><strong>Pre-Event Day-0</strong> : 2nd November 2018  (Only for SHD Hackers and Resident Hackers)
+><br>Sankalp Bhoomi Resort
+><br>Belgaum, Karnataka, India
+
+<p>
+          <a class="btn btn-primary btn-lg" href="https://www.instamojo.com/shdindia/">Register for SHD 2018 
+          <a class="btn btn-primary btn-lg" href="https://goo.gl/BtPNwy">Submit your Idea &raquo;</a>
+</p>
+        
+
+
+<br>
+</address>
           <address>
             <abbr title="Email">E:</abbr> <a href="mailto:shdbelgaum@gmail.com">shdbelgaum@gmail.com</a>
           </address>
@@ -33,17 +36,8 @@ The mission of Science Hack Day is to get excited and make things with science! 
         </div>
 
 
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
-
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
-
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
 
 > Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
 <!--more-->
