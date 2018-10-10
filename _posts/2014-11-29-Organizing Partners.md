@@ -8,8 +8,8 @@ tags: [SHD India, Science]
 
 Organizing Partners
 
-![Makerspace Belgaum](/assets/img/msblogo.jpg)
-
+![Makerspace Belgaum](assets/img/msblogo.jpg)
+![Sankalpbhoomi](assets/img/sankalpbhoomi.jpg)<a href="http://sankalphospitality.in/"target="_blank">sankalphospitality.in</a>
 
 
  
@@ -18,7 +18,7 @@ Organizing Partners
 
 
   <img class="" src="assets/img/sankalpbhoomi.jpg" alt="">
-  <a href="http://sankalphospitality.in/"target="_blank">sankalphospitality.in</a>
+  
 
          
  <div class="post-preview">
