@@ -6,7 +6,7 @@ thumbnail:
 tags: [SHD India, Science]
 ---
 
-![Makerspace Belgaum](/assets/img/msblogo.jpg) ![Sankalpbhoomi](/assets/img/sankalpbhoomi.jpg)
+![Makerspace Belgaum](assets/img/msblogo.jpg) ![Sankalpbhoomi](assets/img/sankalpbhoomi.jpg)
 
 
  
