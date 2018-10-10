@@ -6,7 +6,7 @@ thumbnail: "assets/img/pexels/stargazingsmall.jpg"
 tags: [SHD India, Belgaum, Science, Python]
 excerpt_separator: <!--more-->
 ---
-Science Hack Day is a two-day event where anyone excited about making weird, silly or serious things with science comes together in the same physical space to see what they can prototype within 36 consecutive hours
+Science Hack Day is a three-day event where anyone excited about making weird, silly or serious things with science comes together in the same physical space to see what they can prototype within 36 consecutive hours.
 
 The mission of Science Hack Day is to get excited and make things with science! People organically form multidisciplinary teams over the course of a weekend: particle physicists team up with designers, marketers join forces with open source rocket scientists, writers collaborate with molecular biologists, and developers partner with school kids. By collaborating on focused tasks during this short period, small groups of hackers are capable of producing remarkable results.
 
