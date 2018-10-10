@@ -7,7 +7,11 @@ tags: [SHD India, Science]
 ---
 
 Organizing Partners
- <p float="left">
+
+![Makerspace Belgaum](/assets/img/msblogo.jpg)
+Format: ![Alt Text](url)
+
+
   <img src="/ "assets/img/msblogo.jpg" width="100"alt=""> <a href=""target="_blank"> </a>  />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
