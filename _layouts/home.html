@@ -29,9 +29,8 @@ layout: default
             </p>
           </header>
           <div class="excerpt">
-              
-            <!--   {{post.content | markdownify}}-->
-           {{ post.content | strip_html | truncate: "250" }}
+              {{post.content | markdownify}}
+           <!--  {{ post.content | strip_html | truncate: "250" }}-->
             <!--<a class="button" href="{{ post.url | prepend: site.baseurl }}">
               {{ site.theme_settings.str_continue_reading }}
             </a>-->
