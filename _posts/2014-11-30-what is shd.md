@@ -20,7 +20,7 @@ Designers, developers, artists, scientists and people from any background are we
 
 <a href="https://www.instamojo.com/shdindia/"><strong><strong>Register here for SHD India 2018</strong></strong></a>
        
-
+<!--more-->
 The mission of Science Hack Day is simply to get excited and make things with science! People organically form multidisciplinary teams over the course of a weekend: particle physicists team up with designers, marketers join forces with open source rocket scientists, writers collaborate with molecular biologists, and developers partner with school kids. By collaborating on focused tasks during this short period, small groups of hackers are capable of producing remarkable results.
 
         
