@@ -9,7 +9,7 @@ tags: [SHD India, Science]
 Organizing Partners
 
 ![Makerspace Belgaum](/assets/img/msblogo.jpg)
-Format: ![Alt Text](url)
+
 
 
   <img src="/ "assets/img/msblogo.jpg" width="100"alt=""> <a href=""target="_blank"> </a>  />
