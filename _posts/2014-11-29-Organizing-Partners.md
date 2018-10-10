@@ -11,4 +11,4 @@ tags: [SHD India, Science]
      style="float: left; margin-right: px;"/>
 <img src="{{site.baseurl}}/assets/img/sankalpbhoomi.jpg"
      alt="Sankalpbhoomi"
-     style="float: left; margin-right: px;"/>
+     style="float: right; margin-right: px;"/>
