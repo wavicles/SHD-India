@@ -7,10 +7,13 @@ tags: [SHD India, Science]
 ---
 
 Organizing Partners
-  
-<div class="col-lg-4 col-sm-6 text-center">
-  <img class="" src="assets/img/msblogo.jpg" alt="">
-  <a href=""target="_blank"> </a> 
+ <p float="left">
+  <img src="/ "assets/img/msblogo.jpg" width="100"alt=""> <a href=""target="_blank"> </a>  />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p> 
+
+  <img class="" src=
 </div>
 <div class="col-lg-4 col-sm-6 text-center">
   <img class="" src="assets/img/mhadei.jpg" alt="">
@@ -20,11 +23,8 @@ Organizing Partners
   <img class="" src="assets/img/sankalpbhoomi.jpg" alt="">
   <a href="http://sankalphospitality.in/"target="_blank">sankalphospitality.in</a>
 </div>
-          <p style="text-align:center; color:#FFFFFF"></p>
-<hr>
-      <!-- /.row -->
-
-          <div class="post-preview">
+         
+ <div class="post-preview">
             <h2 id='sponsors' class="post-title">
               Community Partners </br><small>Amazing People/Organizations helping us to make SHD India happen</small>
             </h2>
