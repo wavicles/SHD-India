@@ -8,7 +8,7 @@ tags: [SHD India, Science]
 
 <img src="/assets/img/msblogo.jpg"
      alt="Makerspace Belgaum"
-     style="float: left; margin-right: 2px;" />
+     style="float: left; margin-right: 2px;"/>
 <img src="/assets/img/sankalpbhoomi.jpg"
      alt="Sankalpbhoomi"
-     style="float: left; margin-right: 2px;" />
+     style="float: left; margin-right: 2px;"/>
