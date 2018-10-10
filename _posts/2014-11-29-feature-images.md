@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature images
+title: Organizing Partners
 feature-img: "assets/img/pexels/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Test, Lorem]
