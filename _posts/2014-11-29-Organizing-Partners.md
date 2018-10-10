@@ -6,21 +6,11 @@ thumbnail:
 tags: [SHD India, Science]
 ---
 
-Organizing Partners
-
-![Makerspace Belgaum](assets/img/msblogo.jpg)
-![Sankalpbhoomi](assets/img/sankalpbhoomi.jpg)
+![Makerspace Belgaum](assets/img/msblogo.jpg) ![Sankalpbhoomi](assets/img/sankalpbhoomi.jpg)
 
 
  
-<img class="" src="assets/img/mhadei.jpg" alt="">
-  <a href="http://mhadeiresearchcenter.org"target="_blank">mhadeiresearchcenter.org</a>
 
-
-  <img class="" src="assets/img/sankalpbhoomi.jpg" alt="">
-  
-
-         
  <div class="post-preview">
             <h2 id='sponsors' class="post-title">
               Community Partners </br><small>Amazing People/Organizations helping us to make SHD India happen</small>
@@ -36,7 +26,14 @@ Organizing Partners
             <br>
             <a href="http://icfoss.in/"target="_blank">International Centre for Free and Open Source Software</a>
           </div>
-          
+          <img class="" src="assets/img/mhadei.jpg" alt="">
+  <a href="http://mhadeiresearchcenter.org"target="_blank">mhadeiresearchcenter.org</a>
+
+
+  <img class="" src="assets/img/sankalpbhoomi.jpg" alt="">
+  
+
+         
           <div>
           <P>-</P>
           <hr>
