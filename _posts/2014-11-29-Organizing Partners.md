@@ -9,15 +9,15 @@ tags: [SHD India, Science]
 Organizing Partners
   
 <div class="col-lg-4 col-sm-6 text-center">
-  <img class="" src="2016/img/msblogo.jpg" alt="">
+  <img class="" src="assets/img/msblogo.jpg" alt="">
   <a href=""target="_blank"> </a> 
 </div>
 <div class="col-lg-4 col-sm-6 text-center">
-  <img class="" src="2016/img/mhadei.jpg" alt="">
+  <img class="" src="assets/img/mhadei.jpg" alt="">
   <a href="http://mhadeiresearchcenter.org"target="_blank">mhadeiresearchcenter.org</a>
 </div>
 <div class="col-lg-4 col-sm-6 text-center">
-  <img class="" src="2016/img/sankalpbhoomi.jpg" alt="">
+  <img class="" src="assets/img/sankalpbhoomi.jpg" alt="">
   <a href="http://sankalphospitality.in/"target="_blank">sankalphospitality.in</a>
 </div>
           <p style="text-align:center; color:#FFFFFF"></p>
