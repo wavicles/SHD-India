@@ -33,6 +33,6 @@ Here&#8217;s a video from SHD San Fransisco that shows what the event is like:
 ><br>
 ><b>Follow us on:</b>
 ><br>
-><a href="https://www.facebook.com/sciencehackin/"><i class="fa fa-facebook-official fa-x" aria-hidden="true"></i></a>
-><a href="https://twitter.com/SHD_India"><i class="fa fa-twitter fa-x" aria-hidden="true"></i></a>
-><a href="https://www.flickr.com/groups/3087939@N23/"><i class="fa fa-flickr fa-x" aria-hidden="true"></i></a>
+><a href="https://www.facebook.com/sciencehackin/"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a>
+><a href="https://twitter.com/SHD_India"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+><a href="https://www.flickr.com/groups/3087939@N23/"><i class="fa fa-flickr fa-2x" aria-hidden="true"></i></a>
