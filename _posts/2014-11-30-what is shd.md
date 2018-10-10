@@ -28,7 +28,7 @@ Here&#8217;s a video from SHD San Fransisco that shows what the event is like:
 <p style="text-align: center"><span style="color: #000000"><iframe  id="_ytid_98414" width="750" height="450" src="//www.youtube.com/embed/Dzb_QCYxi3I?enablejsapi=1&autoplay=0&cc_load_policy=0&iv_load_policy=1&loop=0&modestbranding=0&rel=1&showinfo=1&playsinline=0&autohide=2&theme=dark&color=red&wmode=opaque&vq=&controls=2&" frameborder="0" class="__youtube_prefs__" allowfullscreen ></iframe></span></p>        
         
         
-><b>Submit your Hack Idea</b><a href="https://goo.gl/BtPNwy"><strong>  HERE</strong></a>
+><b>Submit your Hack Idea </b><a href="https://goo.gl/BtPNwy"><strong>  HERE</strong></a>
 ><br><abbr title="Email">E:</abbr> <a href="mailto:shdbelgaum@gmail.com">shdbelgaum@gmail.com</a>
 ><br>
 ><b>Follow us on:</b>
