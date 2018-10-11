@@ -8,13 +8,12 @@ tags: [SHD India, Science, Python Community]
 <p>
      <h3><small>Amazing People/Organizations helping us to make SHD India happen</small></h3>
 </p>
-<div class="col-lg-6 col-sm-6 text-center">
+<p align="center"> 
      <a href="https://www.python.org/psf/"><img src="{{site.baseurl}}/assets/img/psflogo.png" alt=""></div>
-<div class="col-lg-6 col-sm-6 text-center">
      <a href="http://icfoss.in/"><img src="{{site.baseurl}}/assets/img/icfosslogo.jpeg" alt=""></div>
-<div>
+</p>
      <hr>
-</div>
+
 <p align="center"> 
      <a href=""><img src="{{site.baseurl}}/assets/img/mhadei.jpg" alt="Mhadei Research Center" style="left; margin-right: 3px;"/> </a>
      <a href=""><img src="{{site.baseurl}}/assets/img/py-belgaum.png" alt="PyBelgaum" style="right; margin-left: 3px;"/></a>
