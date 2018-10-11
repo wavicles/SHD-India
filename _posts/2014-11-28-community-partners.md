@@ -9,8 +9,8 @@ tags: [SHD India, Science, Python Community]
      <h3><small>Amazing People/Organizations helping us to make SHD India happen</small></h3>
 </p>
 <p align="center"> 
-     <a href="https://www.python.org/psf/"><img src="{{site.baseurl}}/assets/img/psflogo.png" alt="">
-     <a href="http://icfoss.in/"><img src="{{site.baseurl}}/assets/img/icfosslogo.jpeg" alt="">
+     <a href="https://www.python.org/psf/"><img src="{{site.baseurl}}/assets/img/psflogo.png" alt=""></a>
+     <a href="http://icfoss.in/"><img src="{{site.baseurl}}/assets/img/icfosslogo.jpeg" alt=""></a>
 </p>
      <hr>
 
