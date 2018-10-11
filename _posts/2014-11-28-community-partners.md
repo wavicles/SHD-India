@@ -12,8 +12,7 @@ tags: [SHD India, Science, Python Community]
      <a href="https://www.python.org/psf/"><img src="{{site.baseurl}}/assets/img/psflogo.png" alt=""></a>
      <a href="http://icfoss.in/"><img src="{{site.baseurl}}/assets/img/icfosslogo.jpeg" alt=""></a>
 </p>
-     <hr>
-
+<p> <hr> </p>
 <p align="center"> 
      <a href=""><img src="{{site.baseurl}}/assets/img/mhadei.jpg" alt="Mhadei Research Center" style="left; margin-right: 3px;"/> </a>
      <a href=""><img src="{{site.baseurl}}/assets/img/py-belgaum.png" alt="PyBelgaum" style="right; margin-left: 3px;"/></a>
