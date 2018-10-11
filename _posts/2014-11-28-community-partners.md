@@ -8,20 +8,17 @@ tags: [SHD India, Science, Python Community]
 <p>
      <h2> <small>Amazing People/Organizations helping us to make SHD India happen</small></h2>
 </p>
-
 <div class="col-lg-6 col-sm-6 text-center">
-            <a href="href="https://www.python.org/psf/"target="_blank"><img src="{{site.baseurl}}/assets/img/psflogo.png" alt="">
+            <a href="href=""><img src="{{site.baseurl}}/assets/img/psflogo.png" alt="">
             <br>
             
 </div>
 <div class="col-lg-6 col-sm-6 text-center">
-            <a href="http://icfoss.in/"target="_blank"><img src="{{site.baseurl}}/assets/img/icfosslogo.jpeg" alt="">
+            <a href="http://icfoss.in/"><img src="{{site.baseurl}}/assets/img/icfosslogo.jpeg" alt="">
             <br>
-            <a href="http://icfoss.in/"target="_blank">International Centre for Free and Open Source Software</a>
 </div>
-          
+         
 <div>
-     <P>-</P>
      <hr>
 </div>
 <p align="center"> 
